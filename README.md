@@ -3,4 +3,4 @@ A small program aimed to do machine learning using linear regression to predict 
 Data for this pragram could be found there: https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
  
 <h2>Important source files</h2>
-main.css - Main source file<br />
+main.cpp - Main source file<br />
